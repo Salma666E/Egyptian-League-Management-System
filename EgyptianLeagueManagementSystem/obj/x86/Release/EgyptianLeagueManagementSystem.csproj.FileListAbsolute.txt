@@ -1,0 +1,4 @@
+D:\iTi 3month\C# (OPP)\Project\Edit1\EgyptianLeagueManagementSystem\bin\Release\EgyptianLeagueManagementSystem.exe
+D:\iTi 3month\C# (OPP)\Project\Edit1\EgyptianLeagueManagementSystem\bin\Release\EgyptianLeagueManagementSystem.pdb
+D:\iTi 3month\C# (OPP)\Project\Edit1\EgyptianLeagueManagementSystem\obj\x86\Release\EgyptianLeagueManagementSystem.exe
+D:\iTi 3month\C# (OPP)\Project\Edit1\EgyptianLeagueManagementSystem\obj\x86\Release\EgyptianLeagueManagementSystem.pdb
